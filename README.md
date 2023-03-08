@@ -12,13 +12,16 @@ ruby pick_a_card.rb
 5. Enter amount of cards you want to get
 
 ### Example
+*Console:*
 ```ruby
 Pick a Card
 How many cards do you pick?
 ```
+*Input:*
 ```ruby
 5
 ```
+*Console:*
 ```ruby
 4 of ♥
 J of ♣
